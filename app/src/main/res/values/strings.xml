@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">Andreas Chari</string>
+    <string name="star">star</string>
+    <string name="bio_text">These violent delights have violent ends. And in their triumph die, like fire and powder,
+Which, as they kiss, consume. The sweetest honey
+Is loathsome in his own deliciousness
+And in the taste confounds the appetite.
+Therefore love moderately. Long love doth so.Too swift arrives as tardy as too slow.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
